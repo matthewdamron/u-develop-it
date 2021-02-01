@@ -13,8 +13,7 @@ U Develop It
 - [Questions](#questions)
 
 ## Description
-A web app to keep track of your notes.<br />
-You can add, edit and delete your notes!!
+
 
 ## Screencast
 <!-- [![Watch the video](./images/note-taker.png)](https://drive.google.com/file/d/1p1HJg4mqLkZWnnwWoGskG6ujtpeNQXxF/view?usp=sharing) -->
